@@ -1,8 +1,7 @@
 <div style="text-align: center;">
-    <div style="display: inline-block; background-color: white; padding: 10px; border-radius: 5px;">
-        <img src="https://lh7-us.googleusercontent.com/Mone2E8lRz4GkO9UgKJ27kI9gBJXQDmhGFyZ45brfjVoICu8b_a0_sZueFWTHZqlZIFxazaOgfbNH07O4ZJRuTaxKoNEtCxdzUCfl-oiO3ryy-pGteyyaa_2yfLtpqWoF1sYOQwUgN4Vb0_bgKTWZI0" alt="logo" width="250" height="auto">
-    </div>
+    <img src="https://lh7-us.googleusercontent.com/Mone2E8lRz4GkO9UgKJ27kI9gBJXQDmhGFyZ45brfjVoICu8b_a0_sZueFWTHZqlZIFxazaOgfbNH07O4ZJRuTaxKoNEtCxdzUCfl-oiO3ryy-pGteyyaa_2yfLtpqWoF1sYOQwUgN4Vb0_bgKTWZI0" alt="logo" width="250" height="auto" style="display: block; margin: 0 auto;">
 </div>
+
 
 <h1 align="center">Case de Seleção - Time de Operações de Dados</h1>
 
